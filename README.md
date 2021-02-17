@@ -1,25 +1,28 @@
-# RedScripts - Red Admin Mode
+# RedScripts - Red Alarms
 
 
-With this script you get an admin suit, with which you can show on your FiveM server that you are an admin.
-This script also has more functions than other "Admin Duty" scripts.
+With this script you can activate various alarms, which you can also find in the story missions. For example, you can activate the prison alarm or the jewel alarm.
 
 Functions:
-- Message to warn the admins that they are in admin mode.
-- Text over the player's head.
-- Godmode.
-- Red Admin Suit.
+- Toggle different alarms 
 
 Requirements:
-- [es_extended](https://github.com/esx-framework/es_extended/tree/v1-final)
+- Nothing. This is a standalone resource.
 
 Installation:
 - Download the file and put it into your resource folder.
-- Add "start red_adminmode" in your server.cfg.
+- Add "start red_alarms" in your server.cfg.
 - Restart the server and the plugin is ready.
 
 Use:
-- Type /adminmode in the chat. All players with the group admin.
+- /prisonalarm - Prison Alarm
+- /fzalarm : Fort Zankudo Alarm
+- /pbbalarm : Paleto Bay Bank Alarm
+- /hlalarm : Human Labs Alarm
+- /udalarm : Union Depository Alarm
+- /cfalarm : Paleto Bay Chicken Factory Alarm
+- /fbialarm : FBI Tower Alarm
+- /jewelalarm : Jeweler Alarm
 
 Here is the fivem forum post:
 https://forum.cfx.re/t/esx-adminmode-script/2226052
